@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center"> 👩‍💻 Sofia Pereira </h1>
 
-<!--
-**sofiapereiraa/sofiapereiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Engenharia de Software • Em constante evolução na programação 🚀
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minhas Habilidades
+<p>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"/></code>
+</p>
+
+## 🛠️ Ferramentas e Tecnologias
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+</p>
+
+## 📫 Contato
+<p align="center">
+  <a href="mailto:sosopereiraqzp@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sofia-regina-pereira-3732b83ab" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
