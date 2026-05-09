@@ -12,6 +12,8 @@
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/arduino/arduino.png" alt="Arduino"/></code>
 </p>
 
 ## 🛠️ Ferramentas e Tecnologias
