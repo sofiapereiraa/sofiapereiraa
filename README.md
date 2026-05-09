@@ -18,7 +18,7 @@
 
 ## 🛠️ Ferramentas e Tecnologias
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+ <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino"/>
 </p>
 
 ## 📫 Contato
