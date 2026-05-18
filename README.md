@@ -8,7 +8,6 @@
 
 ## 🚀 Minhas Habilidades
 <p>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
