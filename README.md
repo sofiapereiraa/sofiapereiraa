@@ -1,7 +1,7 @@
 <h1 align="center"> 👩‍💻 Sofia Pereira </h1>
 
 <p align="center">
-  Estudante de Engenharia de Software • Em constante evolução na programação 🚀
+  Estudante de Engenharia de Software
 </p>
 
 <br>
