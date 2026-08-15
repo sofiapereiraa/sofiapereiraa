@@ -1,7 +1,7 @@
 <h1 align="center"> 👩‍💻 Sofia Pereira </h1>
 
 <p align="center">
-  Estudante de Engenharia de Software & Sistemas de Informação - UFSC
+  Estudante de Engenharia de Software & Sistemas de Informação
 </p>
 <p align="center">
   Estácio & UFSC
