@@ -3,6 +3,9 @@
 <p align="center">
   Estudante de Engenharia de Software & Sistemas de Informação - UFSC
 </p>
+<p align="center">
+  Estácio & UFSC
+</p>
 
 <br>
 
