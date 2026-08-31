@@ -16,6 +16,7 @@
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/arduino/arduino.png" alt="Arduino"/></code>
 </p>
 
